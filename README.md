@@ -1,5 +1,4 @@
-# Hera-s-Meal-Suggestion-App
-# Hera’s Meal Picker (Android • Kotlin • Jetpack Compose)
+# Hera’s Meal Picker
 
 A tiny native Android app that helps Hera decide what to eat based on the time of day. Enter a time like **Morning**, **Afternoon snack**, or **After dinner snack**, and the app suggests fun, rotating options.
 
